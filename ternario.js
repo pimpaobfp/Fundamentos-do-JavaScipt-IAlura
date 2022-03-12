@@ -9,4 +9,4 @@ if (idadeCliente >= idadeMinima) {
 
 // operador ternario; comparação ? true : false
 
-console.log(idadeCliente >= idadeMinima ? 'cerveja' : 'suco')
+console.log(idadeCliente >= idadeMinima ? 'cerveja' : 'suco de uva')
